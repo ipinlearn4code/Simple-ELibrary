@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:projek/core/services/data_service.dart';
-import 'package:projek/features/news/presentation/data/models/book_data_models.dart';
-import 'package:projek/features/news/presentation/pages/home_page_component/carousel.dart';
-import 'package:projek/features/news/presentation/pages/home_page_component/book_list.dart';
-import 'package:projek/features/news/presentation/widgets/bottom_nav_bar.dart';
-import 'package:projek/features/news/presentation/widgets/tab_nav_category.dart';
+import 'package:projek/features/eLib/presentation/data/models/book_data_models.dart';
+import 'package:projek/features/eLib/presentation/pages/home_page_component/carousel.dart';
+import 'package:projek/features/eLib/presentation/pages/home_page_component/book_list.dart';
+import 'package:projek/features/eLib/presentation/widgets/bottom_nav_bar.dart';
+import 'package:projek/features/eLib/presentation/widgets/tab_nav_category.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:projek/features/news/presentation/widgets/bottom_nav_bar.dart';
+import 'package:projek/features/eLib/presentation/widgets/bottom_nav_bar.dart';
 
 class FavoritePage extends StatefulWidget {
   const FavoritePage({super.key});

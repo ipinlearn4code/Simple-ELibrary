@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:projek/core/utils/constant_color.dart';
-import 'package:projek/features/news/presentation/pages/favorite_page.dart';
-import 'package:projek/features/news/presentation/pages/home_page.dart';
-import 'package:projek/features/news/presentation/pages/profil_page.dart';
+import 'package:projek/features/eLib/presentation/pages/favorite_page.dart';
+import 'package:projek/features/eLib/presentation/pages/home_page.dart';
+import 'package:projek/features/eLib/presentation/pages/profil_page.dart';
 
 class BottomNavBar extends StatefulWidget {
   const BottomNavBar({

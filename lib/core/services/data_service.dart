@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'package:flutter/services.dart' as rootBundle;
-import 'package:projek/features/news/presentation/data/models/book_data_models.dart';
+import 'package:projek/features/eLib/presentation/data/models/book_data_models.dart';
 
 // Function to load and parse the JSON
 Future<List<BookDataModels>> loadBooksData() async {

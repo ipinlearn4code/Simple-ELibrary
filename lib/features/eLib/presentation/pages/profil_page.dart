@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:projek/core/utils/constant_color.dart';
-import 'package:projek/features/news/presentation/widgets/bottom_nav_bar.dart';
+import 'package:projek/features/eLib/presentation/widgets/bottom_nav_bar.dart';
 
 class ProfilePage extends StatelessWidget {
   @override

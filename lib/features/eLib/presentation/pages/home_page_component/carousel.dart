@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:projek/features/news/presentation/pages/home_page_component/carousel_card.dart';
+import 'package:projek/features/eLib/presentation/pages/home_page_component/carousel_card.dart';
 
 class Carousel extends StatelessWidget {
   const Carousel({

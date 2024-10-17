@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:projek/features/news/presentation/data/models/book_data_models.dart';
+import 'package:projek/features/eLib/presentation/data/models/book_data_models.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 class BookContent extends StatelessWidget {

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:projek/features/news/presentation/pages/book_read_page.dart';
-import 'package:projek/features/news/presentation/pages/home_page_component/book_list_card.dart';
-import 'package:projek/features/news/presentation/data/models/book_data_models.dart';
+import 'package:projek/features/eLib/presentation/pages/book_read_page.dart';
+import 'package:projek/features/eLib/presentation/pages/home_page_component/book_list_card.dart';
+import 'package:projek/features/eLib/presentation/data/models/book_data_models.dart';
 
 class BookList extends StatelessWidget {
   final List<BookDataModels> books;

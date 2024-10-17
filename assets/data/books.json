@@ -1,0 +1,27 @@
+[
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "image": "assets/images/gatsby.jpg",
+      "description": "A novel set in the 1920s about the mysterious millionaire Jay Gatsby.",
+      "category": "fiksi",
+      "pdfLink": "https://example.com/gatsby.pdf"
+    },
+    {
+      "title": "Introduction to Algorithms",
+      "author": "Thomas H. Cormen",
+      "image": "assets/images/algorithms.jpg",
+      "description": "A comprehensive textbook on algorithms and data structures.",
+      "category": "teknologi",
+      "pdfLink": null
+    },
+    {
+      "title": "Educated",
+      "author": "Tara Westover",
+      "image": "assets/images/educated.jpg",
+      "description": "A memoir about growing up in a strict and abusive household in rural Idaho.",
+      "category": "nonFiksi",
+      "pdfLink": "https://example.com/educated.pdf"
+    }
+  ]
+  

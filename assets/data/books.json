@@ -1,27 +1,34 @@
 [
-    {
-      "title": "The Great Gatsby",
-      "author": "F. Scott Fitzgerald",
-      "image": "assets/images/gatsby.jpg",
-      "description": "A novel set in the 1920s about the mysterious millionaire Jay Gatsby.",
-      "category": "fiksi",
-      "pdfLink": "https://example.com/gatsby.pdf"
-    },
-    {
-      "title": "Introduction to Algorithms",
-      "author": "Thomas H. Cormen",
-      "image": "assets/images/algorithms.jpg",
-      "description": "A comprehensive textbook on algorithms and data structures.",
-      "category": "teknologi",
-      "pdfLink": null
-    },
-    {
-      "title": "Educated",
-      "author": "Tara Westover",
-      "image": "assets/images/educated.jpg",
-      "description": "A memoir about growing up in a strict and abusive household in rural Idaho.",
-      "category": "nonFiksi",
-      "pdfLink": "https://example.com/educated.pdf"
-    }
-  ]
-  
+  {
+    "title": "Nanti Kita Cerita tentang Hari Ini",
+    "author": "Marchella FP",
+    "image": "assets/images/nkcthi.jpeg",
+    "description": "menggambarkan perjalanan emosional keluarga, cinta, trauma, dan penyembuhan.",
+    "category": "fiksi",
+    "pdfLink": "assets/data/books/nkcthi.pdf"
+  },
+  {
+    "title": "Laskar Pelangi",
+    "author": "Andrea Hirata",
+    "image": "assets/images/laskar_pelangi.jpg",
+    "description": "kisah inspiratif tentang anak-anak di desa Gantung, Belitung, dalam mengejar pendidikan.",
+    "category": "fiksi",
+    "pdfLink": "assets/data/books/laskar_pelangi.pdf"
+  },
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "image": "assets/images/atomic_habits.jpg",
+    "description": "panduan perubahan kebiasaan kecil yang membawa dampak besar dalam kehidupan.",
+    "category": "nonfiksi",
+    "pdfLink": "assets/data/books/atomic_habits.pdf"
+  },
+  {
+    "title": "Teknologi Cerdas untuk Bisnis",
+    "author": "Alfred Rajendra WIjaya",
+    "image": "assets/images/tekcerbis.jpg",
+    "description": "panduan bisnis digital yang ditulis Alfred Rajendra Wijaya.",
+    "category": "nonfiksi",
+    "pdfLink": "assets/data/books/teknologiCerdasUntukBisnis.pdf"
+  }
+]

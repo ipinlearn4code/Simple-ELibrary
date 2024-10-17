@@ -11,7 +11,6 @@ class ContainerNewsImage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       width: double.infinity,
-      height: 300,
       child: Image(
           image: img != null
               ? img!.image

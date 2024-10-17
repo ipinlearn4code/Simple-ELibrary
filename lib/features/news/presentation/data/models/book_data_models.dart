@@ -1,6 +1,3 @@
-import 'package:flutter/foundation.dart';
-import 'package:projek/core/utils/enums.dart';
-
 class BookDataModels {
   final String title;
   final String author;

@@ -5,7 +5,7 @@ import 'package:projek/features/news/presentation/data/models/book_data_models.d
 // Function to load and parse the JSON
 Future<List<BookDataModels>> loadBooksData() async {
   // Load JSON from the assets folder
-  final jsonData = await rootBundle.rootBundle.loadString('assets/books.json');
+  final jsonData = await rootBundle.rootBundle.loadString('assets/data/books.json');
   
   // Decode the JSON
   final List<dynamic> decodedData = json.decode(jsonData);

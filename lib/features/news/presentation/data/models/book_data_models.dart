@@ -6,7 +6,7 @@ class BookDataModels {
   final String author;
   final String image;
   final String description;
-  final BookCategory category;
+  final String category;
   final String? pdfLink;
 
   BookDataModels({
@@ -24,8 +24,7 @@ class BookDataModels {
       author: json['author'],
       image: json['image'],
       description: json['description'],
-      category: BookCategory.values
-          .firstWhere((e) => e.toString().split('.').last == json['category']),
+      category: json['category'],
       pdfLink: json['pdfLink'],
     );
   }
